@@ -1,13 +1,15 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="./side-iamge.jpg" alt="Left Side" style="height: 150px; margin-right: 10px;">
-  <img src="./github-header-image2.png" alt="Header" style="height: 150px;">
-  <img src="./side-iamge.jpg" alt="Right Side" style="height: 150px; margin-left: 10px;">
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
+  <img src="./side-image.jpg" alt="Left Side" style="flex: 1; height: 221px; object-fit: cover;">
+  <img src="./github-header-image2.png" alt="Header" style="flex: 1; height: 220px; object-fit: cover;">
+  <img src="./side-image.jpg" alt="Right Side" style="flex: 1; height: 221px; object-fit: cover;">
 </div>
 
 
-<div>
 
-<img align="right" alt="coding" width="50%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<div style="padding-right: 20px;">
+
+<img align="right" alt="coding" width="50%"
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="center">Bracu CSE Survivor</h3>
 
@@ -30,7 +32,7 @@
 - 🌱 I’m currently learning **Shob kisu!! kisui pari na :(**
 - 📫 How to reach me **Shob social link deya ache :3**
   
-<h2> >Current skills </h2>
+<h2> >Skills </h2>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
