@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; ">
   <img src="./side-image.jpg" alt="Left Side" style="flex: 1; height: 221px; object-fit: cover;">
   <img src="./github-header-image2.png" alt="Header" style="flex: 1; height: 220px; object-fit: cover;">
   <img src="./side-image.jpg" alt="Right Side" style="flex: 1; height: 221px; object-fit: cover;">
