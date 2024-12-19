@@ -1,9 +1,13 @@
-![Header](./github-header-image2.png)
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="./side-iamge.jpg" alt="Left Side" style="height: 150px; margin-right: 10px;">
+  <img src="./github-header-image2.png" alt="Header" style="height: 150px;">
+  <img src="./side-iamge.jpg" alt="Right Side" style="height: 150px; margin-left: 10px;">
+</div>
 
 
 <div>
 
-<img align="right" alt="coding" width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="50%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="center">Bracu CSE Survivor</h3>
 
@@ -15,7 +19,9 @@
 <a href="https://fb.com/shahriarhim.froz3nf1re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahriarhim.froz3nf1re" height="30" width="40" /></a>
 <a href="https://instagram.com/living__spirit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="living__spirit" height="30" width="40" /></a>
 </p>
-<h2>  >About me </h2>
+</div>
+<div>
+→About me 
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
