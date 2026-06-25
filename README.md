@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2d3d,100:2563eb&height=200&section=header&text=Shahriar%20Him&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20and%20Infrastructure&descAlignY=58&descSize=18&descColor=a8c5f0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2d3d,100:2563eb&height=200&section=header&text=Shahriar%20Him&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Systems%20and%20Infrastructure&descAlignY=58&descSize=18&descColor=a8c5f0" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahriarhim&label=Profile%20views&color=2563eb&style=flat" alt="profile views" />
