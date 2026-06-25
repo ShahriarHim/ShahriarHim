@@ -1,63 +1,99 @@
-<div align="center">
-  <img src="./github-header-image2.png" alt="Header">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2d3d,100:2563eb&height=200&section=header&text=Shahriar%20Him&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20and%20Infrastructure&descAlignY=58&descSize=18&descColor=a8c5f0" width="100%" />
 
-<div style="padding-right: 20px;">
-
-<img align="right" alt="coding" width="50%"
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<h3 align="center">Bracu CSE Survivor</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarhim&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarhim" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahriarhim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahriarhim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahriar-him" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriar-him" height="30" width="40" /></a>
-<a href="https://fb.com/shahriarhim.froz3nf1re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahriarhim.froz3nf1re" height="30" width="40" /></a>
-<a href="https://instagram.com/living__spirit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="living__spirit" height="30" width="40" /></a>
-</p>
-</div>
-<div>
-→About me 
-  
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
-- 🔭 I’m currently working on **MYSELF!!! :)**
-- 🌱 I’m currently learning **Shob kisu!! kisui pari na :(**
-- 📫 How to reach me **Shob social link deya ache :3**
-  
-<h2> >Skills </h2>
-  
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-  
-- <h4> frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
-  
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-  
-    </div>
-</div>
-<h2 align="left"> >Languages and Tools:</h2>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<!-- GitHub Readme Stats -->
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarhim&show_icons=true&locale=en&layout=compact" alt="shahriarhim" height="165px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriarhim&show_icons=true&locale=en" alt="shahriarhim" height="165px" />
+  <img src="https://komarev.com/ghpvc/?username=shahriarhim&label=Profile%20views&color=2563eb&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2563eb?style=flat&logo=circle&logoColor=white" />
 </p>
+
+<br>
+
+<p align="center">
+  Building production systems end-to-end — API design, RBAC, Redis caching, queue workers, and VM deployment.<br>
+  BRACU CSE. Currently deepening into distributed systems, message brokers, and cloud infrastructure.
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriarhim&theme=nord&hide_border=true&bg_color=1e2d3d&color=4299e1&line=2563eb&point=ffffff&area=true" width="100%" />
+</p>
+
+---
+
+## 🚀 What I've Shipped
+
+### Hometex Bangladesh — Multi-project production system
+
+Three codebases. One Laravel API. Built and deployed to a live VPS.
+
+| Project | What it is | Stack |
+|---|---|---|
+| [hometex-api](https://github.com/ShahriarHim/hometex-api) | REST API shared by both frontends — 244 routes, 49 models, Spatie RBAC, R2 object storage | Laravel 10 · Sanctum · Redis · Cloudflare R2 |
+| [hometex-ims](https://github.com/ShahriarHim/hometex-ims) | Admin dashboard — inventory, POS, orders, staff management, 19 modules, 53 permissions | React 18 · Vite · TanStack Query |
+| [hometex-ecom](https://github.com/ShahriarHim/hometex-ecom) | Customer storefront — bilingual (EN/BN), cart, checkout, Steadfast courier | Next.js 16 · TypeScript · next-intl |
+
+**Things I'm proud of in this system:**
+- Unified user table with Spatie RBAC — 7 roles, 53 permissions, enforced on every route and reflected live in the frontend without logout
+- Cache versioning in Redis — version counters instead of tag flushes; cache-aside across all read-heavy endpoints
+- Stock ledger as signed-quantity audit table — current stock is always a `SUM()`, no running totals that can drift
+- Two-phase R2 upload — storage write first, DB write second; rollback deletes the orphaned key
+- Steadfast courier wrapped in `Throwable` catch — courier failure never blocks order placement
+
+---
+
+## 📡 What I'm Building Toward
+
+| Area | What I'm doing |
+|---|---|
+| **Caching** | Redis, cache invalidation strategies, TTL vs. version-counter patterns |
+| **Queues & Workers** | Laravel Horizon, Supervisor, async job processing |
+| **Message Brokers** | RabbitMQ / Kafka patterns, event-driven architecture |
+| **Cloud Infra** | Linux VM admin, Nginx, Supervisor, Ubuntu server provisioning |
+| **Observability** | Sentry, UptimeRobot, health endpoints, structured logging |
+
+---
+
+## 🛠 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,js,mysql,redis&theme=dark&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,linux,nginx,figma,postman,git&theme=dark&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriarhim&show_icons=true&hide_border=true&count_private=true&theme=nord&bg_color=1e2d3d&title_color=4299e1&icon_color=4299e1&text_color=cdd6f4" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarhim&layout=donut&hide_border=true&theme=nord&bg_color=1e2d3d&title_color=4299e1&text_color=cdd6f4" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shahriarhim&theme=nord&hide_border=true&background=1e2d3d&ring=4299e1&fire=4299e1&currStreakLabel=4299e1" height="150" />
+</p>
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/shahriar-him" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/shahriarhim" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/living__spirit" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://fb.com/shahriarhim.froz3nf1re" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e2d3d&height=100&section=footer&animation=fadeIn" width="100%" />
